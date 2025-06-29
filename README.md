@@ -1,6 +1,6 @@
 # Guia Prático: Computação em Nuvem com Azure
 
-Este repositório contém uma coleção de guias práticos em formato Markdown para auxiliar no aprendizado e utilização dos principais serviços do Microsoft Azure. Cada seção aborda um tema específico, detalhando o passo a passo para configuração e utilização dos recursos mais comuns. Esse guia faz parte do Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure oferecido pela plataforma DIO.
+Este repositório contém uma coleção de guias práticos em formato Markdown para auxiliar no aprendizado e utilização dos principais serviços do Microsoft Azure. Cada seção aborda um tema específico, detalhando o passo a passo para configuração e utilização dos recursos mais comuns. Esse guia faz parte do **Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure** oferecido pela plataforma **DIO**.
 
 ## Estrutura do Repositório
 
